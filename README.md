@@ -10,8 +10,6 @@
 - Automatización de procesos
 - Integraciones con APIs y plataformas e-commerce
 
-🧠 Me encanta enfrentar retos técnicos, aprender nuevas tecnologías y mejorar continuamente.
-
 ---
 
 ### 🛠️ Tecnologías que domino
@@ -56,14 +54,36 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariocobian09&layout=compact&theme=tokyonight" alt="Lenguajes más usados"/>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mariocobian09&show_icons=true&theme=tokyonight" alt="mariocobian09's GitHub stats"/>
 </p>
 
 ---
 
-### 📫 ¡Conectemos!
+### 📫 !Contactame!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariocobian09)
-[![Correo](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mg.cobianayala@outlook.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mariocobian09" target="_blank">
+    <img align="center" alt="Mario Cobián | LinkedIn" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://x.com/mariocobian09" target="_blank">
+    <img align="center" alt="Mario Cobián | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+  </a> &nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/mariocobian09" target="_blank">
+    <img align="center" alt="Mario Cobián | Instagram" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+
+  <a href="mailto:mg.cobianayala@outlook.com">
+    <img align="center" alt="Mario Cobián | Correo" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
+
+  <a href="https://www.facebook.com/mariocobian09" target="_blank">
+    <img align="center" alt="Mario Cobián | Facebook" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+  </a>
+</p>
 
 ---
