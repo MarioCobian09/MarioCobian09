@@ -1,24 +1,14 @@
 <h1 align="center">¡Hola! Soy Mario Geovani 👋</h1>
-<h3 align="center">Desarrollador Full-Stack apasionado por crear soluciones útiles, eficientes y escalables.</h3>
 <h3 align="center">Full-Stack Developer | Frontend Developer | Backend Developer</h3>
 
 ---
 
-💻 Soy **Ingeniero en Sistemas Computacionales** con más de 5 años de experiencia en desarrollo de:
-- Aplicaciones Web
-- Apps móviles
-- Sistemas de escritorio
-- Automatización de procesos
-- Integraciones con APIs y plataformas e-commerce
-
----
-
-💻 I'm **Systems Engineer** with over 5 years of experience in developing:
-- Web Applications
-- Mobile Apps
-- Desktop Systems
-- Process Automation
-- Integrations with APIs and e-commerce platforms
+💻 Soy **Ingeniero en Sistemas Computacionales** (*Systems Engineer*) con más de 5 años de experiencia en el desarrollo de:
+- 🌐 Aplicaciones Web / Web Applications
+- 📱 Apps móviles / Mobile Apps
+- 💻 Sistemas de escritorio / Desktop Systems
+- ⚙️ Automatización de procesos / Process Automation
+- 🔗 Integraciones con APIs y plataformas e-commerce / API & e-commerce integrations
 
 ---
 
@@ -31,7 +21,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -52,7 +41,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 #### 🌐 Redes de Computadoras | 
@@ -61,11 +49,16 @@
 
 ---
 
-### 🏆 Experiencia Profesional | Professional Experience
+### 🚀 Proyectos destacados
 
-- 🛒 **Awacenter** — Plataforma e-commerce con administración centralizada y automatización logística.
-- 🐾 **Mega Vet 2** — Sitio informativo optimizado para móviles, enfocado en productos veterinarios.
-- 🔧 Otros proyectos disponibles en mis repos públicos.
+🛒 [**Awacenter**](#)  
+Sistema e-commerce completo con administración centralizada, pasarela de pagos y seguimiento de pedidos.
+
+🐾 [**Mega Vet 2**](#)  
+Sitio responsivo para presentación de productos veterinarios, optimizado para carga rápida.
+
+🔧 [Más proyectos aquí](https://github.com/mariocobian09?tab=repositories)
+
 
 ---
 
